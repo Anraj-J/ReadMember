@@ -1,16 +1,10 @@
-# book
+# ReadMember
 
-A new Flutter project.
+ReadMember is made using Flutter and Dart, paired with Firebase on the backend for authentication and the database.
 
-## Getting Started
+![Home Screen Demo](https://github.com/Anraj-J/ReadMember/assets/86089564/450b7874-fcf1-4121-be68-334239305e7a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="618" alt="Screenshot 2023-09-21 at 12 22 45 PM" src="https://github.com/Anraj-J/ReadMember/assets/86089564/d7e6b50f-9499-427d-922b-8dc74203e9d3">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Current functionality includes user authentication, Access to the database of books, and the catalogue page. Quiz Implementations are almost complete!
